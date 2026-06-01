@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Enrique%20Portilla-blue?style=flat&logo=linkedin)](https://linkedin.com/in/miguel-enrique-portilla)
 [![Email](https://img.shields.io/badge/Email-miguel.e.portilla%40gmail.com-red?style=flat&logo=gmail)](mailto:miguel.e.portilla@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B52%20(55)%2041752267-green?style=flat&logo=whatsapp)](tel:+525541752267)
+[![Phone](https://img.shields.io/badge/Phone-%2B52%20(55)%2041752267-green?style=flat&logo=whatsapp)](tel:+522823207)
 
 ---
 
